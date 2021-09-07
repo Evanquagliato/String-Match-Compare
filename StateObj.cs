@@ -30,13 +30,14 @@ namespace String_Match_Compare
             {
                 for (int j = 0; j < input.Count(); j++)
                 {
+                    // If it finds a matching letter, stop comparing and return
                     if (state[i] == input[j])
                     {
                         return "";
                     }
                 }
             }
-            return Name + ", ";
+            return Name + "\n";
         }
     }
 }
