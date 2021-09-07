@@ -1,0 +1,15 @@
+/Users/evanquagliato/String-Match-Compare/bin/Debug/net5.0/String-Match-Compare.deps.json
+/Users/evanquagliato/String-Match-Compare/bin/Debug/net5.0/String-Match-Compare.runtimeconfig.json
+/Users/evanquagliato/String-Match-Compare/bin/Debug/net5.0/String-Match-Compare.runtimeconfig.dev.json
+/Users/evanquagliato/String-Match-Compare/bin/Debug/net5.0/String-Match-Compare.dll
+/Users/evanquagliato/String-Match-Compare/bin/Debug/net5.0/ref/String-Match-Compare.dll
+/Users/evanquagliato/String-Match-Compare/bin/Debug/net5.0/String-Match-Compare.pdb
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.csproj.AssemblyReference.cache
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.AssemblyInfoInputs.cache
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.AssemblyInfo.cs
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.csproj.CoreCompileInputs.cache
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.dll
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/ref/String-Match-Compare.dll
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.pdb
+/Users/evanquagliato/String-Match-Compare/obj/Debug/net5.0/String-Match-Compare.genruntimeconfig.cache

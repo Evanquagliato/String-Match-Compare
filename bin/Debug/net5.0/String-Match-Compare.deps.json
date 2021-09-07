@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "String-Match-Compare/1.0.0": {
+        "runtime": {
+          "String-Match-Compare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String-Match-Compare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
